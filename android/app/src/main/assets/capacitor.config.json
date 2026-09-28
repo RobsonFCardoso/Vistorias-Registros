@@ -1,0 +1,13 @@
+{
+	"appId": "com.vistoria.app",
+	"appName": "Vistoria e Registro de Veiculos",
+	"webDir": "dist",
+	"plugins": {
+		"Camera": {
+			"presentationStyle": "fullscreen"
+		}
+	},
+	"android": {
+		"allowMixedContent": true
+	}
+}
