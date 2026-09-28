@@ -1,0 +1,10 @@
+{
+  "name": "Vistoria e Registro de Veículos",
+  "description": "Sistema completo de inspeção veicular com controle de status Aprovado/Reprovado, captura de fotos pela câmera, geração de PDF e compartilhamento via WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
